@@ -87,3 +87,13 @@ html{
 .select-input__labal{
     font-size: 1.4rem;
 }
+.pageitem-item-active{
+    background-color: var(--primary-color);
+    color: red;
+}
+.pageitem-item-active a{
+    color: #fff;
+}
+.home-product-pagetion{
+    margin: 48px 0 32px;
+}
